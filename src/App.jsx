@@ -5,6 +5,7 @@ import Header from './components/Header';
 import CarList from './pages/CardList';
 import Hero from './pages/Hero';
 
+const AppContainer = styled.div;
 
 function App() {
   return (
